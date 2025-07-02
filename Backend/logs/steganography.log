@@ -1,0 +1,735 @@
+2025-05-04 00:10:52,078 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 00:10:52,116 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 00:10:52,122 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-04 00:11:09,277 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 00:11:09,293 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 00:11:09,299 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-04 00:12:13,355 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 00:12:20,980 - steganography - [31mERROR[0m - Error processing audio: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-05-04 00:14:42,132 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 00:14:42,146 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 00:14:42,152 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-04 00:14:46,649 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 00:14:53,223 - steganography - [31mERROR[0m - Error storing fingerprint: cannot encode object: array([-1.        , -0.99993587, -0.9857973 , ..., -0.08976518,
+       -0.06761097, -0.0227923 ], dtype=float32), of type: <class 'numpy.ndarray'>
+2025-05-04 00:14:53,224 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 21
+2025-05-04 00:14:53,228 - steganography - [31mERROR[0m - Error processing audio: Error processing audio file: 
+2025-05-04 00:15:52,129 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 00:15:52,156 - steganography - [31mERROR[0m - Error storing fingerprint: cannot encode object: array([-1.        , -0.99993587, -0.9857973 , ..., -0.08976518,
+       -0.06761097, -0.0227923 ], dtype=float32), of type: <class 'numpy.ndarray'>
+2025-05-04 00:15:52,159 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 21
+2025-05-04 00:15:52,161 - steganography - [31mERROR[0m - Error processing audio: Error processing audio file: 
+2025-05-04 00:16:13,719 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 00:16:13,936 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 00:16:13,945 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-04 00:16:17,969 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 00:16:36,063 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 21
+2025-05-04 00:16:36,073 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 21
+2025-05-04 00:16:36,095 - steganography - [31mERROR[0m - Error processing audio: Error processing audio file: 
+2025-05-04 00:18:07,898 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 00:18:07,916 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 00:18:07,924 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-04 00:18:10,910 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 00:18:16,422 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 22
+2025-05-04 00:18:16,424 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 22
+2025-05-04 00:18:20,513 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 00:19:45,750 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 00:19:47,981 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=22, frame_rate=8000
+2025-05-04 00:19:48,917 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 00:19:49,044 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 22
+2025-05-04 00:19:49,257 - steganography - [32mINFO[0m - Audio match result: -26.13
+2025-05-04 00:19:49,341 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 00:23:32,827 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 00:23:32,843 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 00:23:32,852 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-04 00:23:38,202 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 00:23:38,791 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=22, frame_rate=8000
+2025-05-04 00:23:39,022 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 00:23:39,025 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 22
+2025-05-04 00:23:46,617 - steganography - [32mINFO[0m - Audio match result: -0.02
+2025-05-04 00:23:46,620 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 00:25:52,230 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 00:25:52,272 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 00:25:52,286 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-04 00:25:59,004 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 00:25:59,058 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 00:25:59,064 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-04 00:26:02,239 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 00:26:02,912 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=22, frame_rate=8000
+2025-05-04 00:26:03,127 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 00:26:03,137 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 22
+2025-05-04 00:26:10,065 - steganography - [32mINFO[0m - Audio match result: 5.1
+2025-05-04 00:26:10,067 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 00:27:21,675 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 00:27:21,689 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 00:27:21,699 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-04 00:27:31,638 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 00:27:36,298 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 23
+2025-05-04 00:27:36,301 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 23
+2025-05-04 00:27:41,621 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 00:27:52,520 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 00:27:53,515 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=23, frame_rate=8000
+2025-05-04 00:27:53,768 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 00:27:53,772 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 23
+2025-05-04 00:27:53,815 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 00:27:53,816 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 01:36:27,633 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 01:36:27,673 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 01:36:27,684 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-04 01:37:11,511 - steganography - [33mWARNING[0m - Missing required files in embed request
+2025-05-04 01:37:59,625 - steganography - [33mWARNING[0m - Missing required files in embed request
+2025-05-04 01:38:03,602 - steganography - [33mWARNING[0m - Missing required files in embed request
+2025-05-04 01:40:23,039 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 01:40:28,138 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 24
+2025-05-04 01:40:28,139 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 24
+2025-05-04 01:40:30,879 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 01:42:12,597 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 01:42:13,016 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=24, frame_rate=8000
+2025-05-04 01:42:13,119 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 01:42:13,122 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 24
+2025-05-04 01:42:13,155 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 01:42:13,156 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 01:42:18,718 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 01:42:19,101 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=24, frame_rate=8000
+2025-05-04 01:42:19,212 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 01:42:19,213 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 24
+2025-05-04 01:42:19,235 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 01:42:19,236 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 01:42:26,966 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 01:42:27,388 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=24, frame_rate=8000
+2025-05-04 01:42:27,490 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 01:42:27,492 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 24
+2025-05-04 01:42:27,514 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 01:42:27,515 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 01:44:09,951 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 01:44:10,361 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=24, frame_rate=8000
+2025-05-04 01:44:10,464 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 01:44:10,466 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 24
+2025-05-04 01:44:10,485 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 01:44:10,486 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 01:46:32,467 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 01:46:32,516 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 25
+2025-05-04 01:46:32,518 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 25
+2025-05-04 01:46:35,098 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 01:46:58,254 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 01:46:58,671 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=25, frame_rate=8000
+2025-05-04 01:46:58,765 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 01:46:58,767 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 25
+2025-05-04 01:46:58,784 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 01:46:58,785 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 01:49:50,289 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 01:49:50,313 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 26
+2025-05-04 01:49:50,314 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 26
+2025-05-04 01:49:53,040 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 01:54:05,389 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 01:54:05,425 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 27
+2025-05-04 01:54:05,427 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 27
+2025-05-04 01:54:08,076 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 01:56:55,699 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 01:56:55,709 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 01:56:55,713 - steganography - [31mERROR[0m - Uncaught exception
+Traceback (most recent call last):
+  File "D:\Mid_term\8sem-final - Copy(Cursor)\app.py", line 21, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+2025-05-04 01:57:41,222 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-04 01:57:41,230 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-04 01:57:41,240 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-04 01:57:50,727 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 01:57:53,709 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 28
+2025-05-04 01:57:53,710 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 28
+2025-05-04 01:57:56,390 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 01:58:29,747 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 01:58:30,156 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=28, frame_rate=8000
+2025-05-04 01:58:30,248 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 01:58:30,250 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 28
+2025-05-04 01:58:30,269 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 01:58:30,270 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 02:03:17,771 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 02:03:17,821 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 29
+2025-05-04 02:03:17,822 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 29
+2025-05-04 02:03:19,841 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 02:03:39,408 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 02:03:39,698 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=29, frame_rate=8000
+2025-05-04 02:03:39,768 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 02:03:39,771 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 29
+2025-05-04 02:03:39,788 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 02:03:39,789 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 02:05:30,481 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 02:05:30,504 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 30
+2025-05-04 02:05:30,515 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 30
+2025-05-04 02:05:32,923 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 02:07:43,226 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 02:07:43,257 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 31
+2025-05-04 02:07:43,258 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 31
+2025-05-04 02:07:45,216 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 02:08:01,760 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 02:08:02,038 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=31, frame_rate=8000
+2025-05-04 02:08:02,105 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 02:08:02,108 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 31
+2025-05-04 02:08:02,124 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 02:08:02,126 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 02:09:00,159 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 02:09:00,181 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 32
+2025-05-04 02:09:00,184 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 32
+2025-05-04 02:09:02,137 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 02:10:57,895 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 02:10:57,915 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 33
+2025-05-04 02:10:57,918 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 33
+2025-05-04 02:10:59,877 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 02:12:12,362 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 02:12:12,391 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 34
+2025-05-04 02:12:12,392 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 34
+2025-05-04 02:12:14,241 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 02:13:48,385 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-04 02:13:48,429 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 35
+2025-05-04 02:13:48,430 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 35
+2025-05-04 02:13:50,239 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-04 02:14:00,820 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 02:14:01,109 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=35, frame_rate=8000
+2025-05-04 02:14:01,179 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 02:14:01,182 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 35
+2025-05-04 02:14:01,199 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 02:14:01,200 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 02:15:17,137 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 02:15:17,411 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=35, frame_rate=8000
+2025-05-04 02:15:17,490 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 02:15:17,493 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 35
+2025-05-04 02:15:17,511 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 02:15:17,511 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-04 02:16:13,114 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-04 02:16:13,411 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=35, frame_rate=8000
+2025-05-04 02:16:13,486 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-04 02:16:13,488 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 35
+2025-05-04 02:16:13,508 - steganography - [32mINFO[0m - Audio match result: 83.55
+2025-05-04 02:16:13,509 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-06 14:58:38,347 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-06 14:58:43,443 - steganography - [31mERROR[0m - Failed to connect to MongoDB: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 6819d646c758be065c8c7ad8, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-06 14:58:43,568 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-06 15:00:46,416 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-06 15:01:24,485 - steganography - [31mERROR[0m - Error processing audio: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 6819d646c758be065c8c7ad6, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-06 15:01:39,325 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio4.wav
+2025-05-06 15:02:09,510 - steganography - [31mERROR[0m - Error processing audio: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 6819d646c758be065c8c7ad6, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-05-06 15:02:30,494 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-06 15:02:31,358 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=35, frame_rate=8000
+2025-05-06 15:02:31,566 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-06 15:02:31,566 - steganography - [31mERROR[0m - Database connection not available
+2025-05-06 15:02:31,566 - steganography - [33mWARNING[0m - Fingerprint not found for unique_id: 35
+2025-05-21 14:25:28,217 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-21 14:25:28,257 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-21 14:25:28,293 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-21 14:25:33,331 - steganography - [32mINFO[0m - Processing files: image.jpg, audio3.wav
+2025-05-21 14:25:45,302 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 39
+2025-05-21 14:25:45,303 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 39
+2025-05-21 14:26:08,693 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-21 14:26:43,815 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-21 14:26:46,389 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=39, frame_rate=8000
+2025-05-21 14:26:46,631 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-21 14:26:46,645 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 39
+2025-05-21 14:26:46,744 - steganography - [32mINFO[0m - Audio match result: 82.29
+2025-05-21 14:26:46,746 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-21 21:13:04,123 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-21 21:13:04,142 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-21 21:13:07,785 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-21 21:13:42,085 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-21 21:13:42,120 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-21 21:13:45,128 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-21 21:23:00,838 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-21 21:23:00,857 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-21 21:23:03,864 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-21 22:40:43,526 - steganography - [33mWARNING[0m - Missing required audio files in compare request
+2025-05-21 22:40:53,397 - steganography - [33mWARNING[0m - Missing required audio files in compare request
+2025-05-21 22:41:43,398 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-21 22:41:43,466 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-21 22:41:46,754 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-21 22:42:00,747 - steganography - [33mWARNING[0m - Missing required audio files in compare request
+2025-05-21 22:46:23,146 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-21 22:46:23,190 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-21 22:46:25,919 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-21 22:46:35,469 - steganography - [33mWARNING[0m - Missing required audio files in compare request
+2025-05-21 22:47:52,535 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-21 22:47:52,574 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-21 22:47:55,701 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-21 22:48:36,670 - steganography - [33mWARNING[0m - Missing required audio files in compare request
+2025-05-21 22:48:49,938 - steganography - [33mWARNING[0m - Missing required audio files in compare request
+2025-05-21 22:56:26,335 - steganography - [33mWARNING[0m - Missing required audio files in compare request
+2025-05-21 22:59:49,443 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-21 22:59:49,461 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-21 22:59:52,695 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-21 23:00:10,497 - steganography - [33mWARNING[0m - Missing required audio files in compare request
+2025-05-21 23:00:12,484 - steganography - [33mWARNING[0m - Missing required audio files in compare request
+2025-05-21 23:05:20,403 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, recording.wav
+2025-05-21 23:05:31,455 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 78.60%
+2025-05-21 23:06:49,917 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, recording.wav
+2025-05-21 23:06:50,752 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 77.75%
+2025-05-21 23:07:27,505 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, recording.wav
+2025-05-21 23:07:27,933 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 76.50%
+2025-05-21 23:10:45,166 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, recording.wav
+2025-05-21 23:10:45,821 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 76.78%
+2025-05-21 23:11:29,627 - steganography - [32mINFO[0m - Processing files: image2.jpg, Anshika.wav
+2025-05-21 23:11:29,716 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 40
+2025-05-21 23:11:29,721 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 40
+2025-05-21 23:11:33,780 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-05-21 23:11:55,148 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-05-21 23:11:55,738 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=40, frame_rate=8000
+2025-05-21 23:11:55,872 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-05-21 23:11:55,876 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 40
+2025-05-21 23:11:55,948 - steganography - [32mINFO[0m - Audio match result: 84.15
+2025-05-21 23:11:55,950 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-05-21 23:12:17,098 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-05-21 23:12:18,034 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 81.26%
+2025-05-22 13:00:40,573 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-22 13:00:40,588 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-22 13:00:46,664 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-22 13:01:26,413 - steganography - [32mINFO[0m - Processing audio comparison: Audio3.wav, recording.wav
+2025-05-22 13:01:39,283 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 73.82%
+2025-05-22 13:02:19,438 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-22 13:02:19,458 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-22 13:02:22,509 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-22 13:04:36,820 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-22 13:04:36,868 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-22 13:04:39,210 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-22 13:06:00,506 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-22 13:06:00,520 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-22 13:06:02,629 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-22 13:06:36,155 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-22 13:06:36,206 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-22 13:06:39,700 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-22 13:08:34,859 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-22 13:08:34,954 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-22 13:08:37,933 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-22 13:08:48,914 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-22 13:08:48,941 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-22 13:08:51,636 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-22 14:19:16,068 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-22 14:19:16,082 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-22 14:19:20,109 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-22 14:32:30,806 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-22 14:32:30,843 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-22 14:32:33,165 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-22 14:32:41,983 - steganography - [32mINFO[0m - Processing audio comparison: Audio3.wav, recording.wav
+2025-05-22 14:33:07,287 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 71.59%
+2025-05-22 14:51:38,451 - steganography - [32mINFO[0m - Configuration validation successful
+2025-05-22 14:51:38,525 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-05-22 14:51:40,976 - steganography - [32mINFO[0m - Starting Flask application
+2025-05-22 14:52:39,588 - steganography - [32mINFO[0m - Processing audio comparison: Audio3.wav, recording.wav
+2025-05-22 14:52:46,139 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 70.88%
+2025-05-22 14:58:14,000 - steganography - [32mINFO[0m - Processing audio comparison: Audio3.wav, recording.wav
+2025-05-22 14:58:14,549 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 70.88%
+2025-05-22 14:58:33,085 - steganography - [32mINFO[0m - Processing audio comparison: Audio3.wav, recording.wav
+2025-05-22 14:58:33,784 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 70.88%
+2025-06-04 23:36:59,501 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-04 23:36:59,527 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-04 23:37:03,885 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-04 23:38:30,605 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio3.wav
+2025-06-04 23:38:41,453 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 41
+2025-06-04 23:38:41,455 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 41
+2025-06-04 23:38:42,110 - steganography - [31mERROR[0m - Error embedding data: Error processing image: Insufficient space in the image. Required: 841808, Available: 691200
+2025-06-04 23:38:57,305 - steganography - [32mINFO[0m - Processing files: image2.jpg, audio3.wav
+2025-06-04 23:38:57,351 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 42
+2025-06-04 23:38:57,352 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 42
+2025-06-04 23:38:58,354 - steganography - [31mERROR[0m - Error embedding data: Error processing image: Insufficient space in the image. Required: 841808, Available: 691200
+2025-06-04 23:39:10,837 - steganography - [32mINFO[0m - Processing files: image.jpg, audio3.wav
+2025-06-04 23:39:10,867 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 43
+2025-06-04 23:39:10,868 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 43
+2025-06-04 23:39:35,899 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-04 23:40:04,396 - steganography - [32mINFO[0m - Processing files: image2.jpg, Anshika.wav
+2025-06-04 23:40:04,562 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 44
+2025-06-04 23:40:04,566 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 44
+2025-06-04 23:40:09,033 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-04 23:40:27,487 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-04 23:40:28,277 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=44, frame_rate=8000
+2025-06-04 23:40:28,465 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-04 23:40:28,470 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 44
+2025-06-04 23:40:28,550 - steganography - [32mINFO[0m - Audio match result: 84.15
+2025-06-04 23:40:28,553 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-04 23:40:59,545 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, recording.wav
+2025-06-04 23:41:04,593 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 77.05%
+2025-06-04 23:45:25,298 - steganography - [32mINFO[0m - Processing files: image2.jpg, Anshika.wav
+2025-06-04 23:45:25,369 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 45
+2025-06-04 23:45:25,370 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 45
+2025-06-04 23:45:31,580 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-04 23:45:43,865 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-04 23:45:44,536 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=45, frame_rate=8000
+2025-06-04 23:45:44,686 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-04 23:45:44,728 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 45
+2025-06-04 23:45:44,770 - steganography - [32mINFO[0m - Audio match result: 84.15
+2025-06-04 23:45:44,771 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-04 23:46:18,845 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-04 23:46:19,735 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 77.00%
+2025-06-04 23:46:56,158 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-04 23:46:56,649 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 78.27%
+2025-06-04 23:47:04,875 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-04 23:47:05,395 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 78.27%
+2025-06-04 23:48:43,170 - steganography - [32mINFO[0m - Processing files: image2.jpg, Anshika.wav
+2025-06-04 23:48:43,414 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 46
+2025-06-04 23:48:43,416 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 46
+2025-06-04 23:48:48,925 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-04 23:49:00,188 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-04 23:49:00,801 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=46, frame_rate=8000
+2025-06-04 23:49:00,957 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-04 23:49:00,961 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 46
+2025-06-04 23:49:01,037 - steganography - [32mINFO[0m - Audio match result: 84.15
+2025-06-04 23:49:01,039 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-04 23:49:22,884 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-04 23:49:23,611 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 76.07%
+2025-06-05 00:13:15,733 - steganography - [32mINFO[0m - Processing files: stego_image_rev_flask.png, Anshika.wav
+2025-06-05 00:13:15,824 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 47
+2025-06-05 00:13:15,826 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 47
+2025-06-05 00:13:21,097 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-05 00:13:34,364 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-05 00:13:35,025 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=47, frame_rate=8000
+2025-06-05 00:13:35,176 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-05 00:13:35,185 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 47
+2025-06-05 00:13:35,239 - steganography - [32mINFO[0m - Audio match result: 84.15
+2025-06-05 00:13:35,240 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-05 00:13:55,903 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-05 00:14:03,980 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 80.57%
+2025-06-05 14:13:11,644 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-05 14:13:11,655 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-05 14:13:13,918 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-05 14:13:46,175 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-05 14:13:54,339 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 88.16%
+2025-06-05 14:17:06,655 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-05 14:17:10,370 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 86.59%
+2025-06-05 14:48:41,635 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-05 14:48:47,725 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 86.25%
+2025-06-09 01:28:08,388 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-09 01:28:13,506 - steganography - [31mERROR[0m - Failed to connect to MongoDB: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 6845eb503b247dd637e8240f, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-06-09 01:28:17,708 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-09 01:29:49,615 - steganography - [32mINFO[0m - Processing files: image2.jpg, Anshika.wav
+2025-06-09 01:30:26,271 - steganography - [31mERROR[0m - Error processing audio: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 6845eb503b247dd637e8240d, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-06-09 01:30:38,026 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-09 01:30:38,585 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=47, frame_rate=8000
+2025-06-09 01:30:38,697 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-09 01:30:38,698 - steganography - [31mERROR[0m - Database connection not available
+2025-06-09 01:30:38,700 - steganography - [33mWARNING[0m - Fingerprint not found for unique_id: 47
+2025-06-09 01:35:47,345 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-09 01:35:47,357 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-09 01:35:51,470 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-09 01:36:34,592 - steganography - [32mINFO[0m - Processing files: image2.jpg, Anshika.wav
+2025-06-09 01:36:43,246 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 48
+2025-06-09 01:36:43,249 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 48
+2025-06-09 01:36:48,834 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-09 01:37:00,651 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-09 01:37:01,326 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=48, frame_rate=8000
+2025-06-09 01:37:01,547 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-09 01:37:01,551 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 48
+2025-06-09 01:37:01,606 - steganography - [32mINFO[0m - Audio match result: 84.15
+2025-06-09 01:37:01,607 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-09 01:37:18,577 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-09 01:37:18,678 - steganography - [31mERROR[0m - Error converting audio to WAV: [WinError 2] The system cannot find the file specified
+2025-06-09 01:37:18,690 - steganography - [31mERROR[0m - Error converting audio files: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sanga\\AppData\\Local\\Temp\\tmp2em16hm4.wav'
+2025-06-09 01:37:38,453 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-09 01:37:38,656 - steganography - [31mERROR[0m - Error converting audio to WAV: [WinError 2] The system cannot find the file specified
+2025-06-09 01:37:38,688 - steganography - [31mERROR[0m - Error converting audio files: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sanga\\AppData\\Local\\Temp\\tmprrdctfiv.wav'
+2025-06-09 01:56:05,626 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-09 01:56:05,665 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-09 01:56:08,507 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-09 01:56:30,281 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-09 01:56:30,446 - steganography - [31mERROR[0m - Error converting audio to WAV: [WinError 2] The system cannot find the file specified
+2025-06-09 01:56:30,450 - steganography - [31mERROR[0m - Error converting audio files: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\sanga\\AppData\\Local\\Temp\\tmpv_s075gi.wav'
+2025-06-09 02:00:24,046 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-09 02:00:24,088 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-09 02:00:28,263 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-09 02:00:47,530 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-09 02:01:24,696 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 81.87%
+2025-06-09 02:02:00,086 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-09 02:02:00,741 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=48, frame_rate=8000
+2025-06-09 02:02:00,922 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-09 02:02:00,991 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 48
+2025-06-09 02:02:01,030 - steganography - [32mINFO[0m - Audio match result: 84.15
+2025-06-09 02:02:01,031 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-09 02:02:23,244 - steganography - [32mINFO[0m - Processing files: image2.jpg, shreya.wav
+2025-06-09 02:02:23,374 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 49
+2025-06-09 02:02:23,376 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 49
+2025-06-09 02:02:27,863 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-09 02:23:21,439 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-09 02:23:21,515 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-09 02:23:25,507 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-09 02:23:30,679 - steganography - [32mINFO[0m - Processing audio comparison: shreya.wav, recording.wav
+2025-06-09 02:23:48,119 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 81.77%
+2025-06-10 15:37:57,166 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-10 15:37:57,280 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-10 15:38:00,868 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-10 16:06:29,100 - steganography - [32mINFO[0m - Processing files: image2.jpg, Anshika.wav
+2025-06-10 16:06:38,967 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 50
+2025-06-10 16:06:38,969 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 50
+2025-06-10 16:06:43,009 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-10 16:06:57,825 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-10 16:06:58,603 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=50, frame_rate=8000
+2025-06-10 16:06:58,745 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-10 16:06:58,749 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 50
+2025-06-10 16:06:58,782 - steganography - [32mINFO[0m - Audio match result: 84.15
+2025-06-10 16:06:58,784 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-10 16:07:25,452 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-10 16:07:33,532 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 84.36%
+2025-06-10 16:12:00,850 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-10 16:12:04,360 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 83.62%
+2025-06-10 16:15:02,157 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, extracted_audio_flask.wav
+2025-06-10 16:15:06,165 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 90.91%
+2025-06-10 16:15:21,177 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, extracted_audio_flask.wav
+2025-06-10 16:18:20,197 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-10 16:18:20,237 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-10 16:18:23,684 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-10 16:18:28,106 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-10 16:18:37,958 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 83.93%
+2025-06-10 16:18:59,650 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, extracted_audio_flask.wav
+2025-06-10 16:19:03,422 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 90.91%
+2025-06-10 16:25:52,987 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, extracted_audio_flask.wav
+2025-06-10 16:25:56,177 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 90.91%
+2025-06-10 16:27:56,148 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-10 16:28:51,444 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-10 16:28:51,450 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-10 16:28:53,239 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-10 16:29:04,483 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-10 16:29:10,980 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 87.17%
+2025-06-10 16:29:38,348 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, extracted_audio_flask.wav
+2025-06-10 16:29:40,170 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 90.91%
+2025-06-10 16:29:59,260 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, extracted_audio_flask.wav
+2025-06-10 16:30:00,920 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 90.91%
+2025-06-10 16:31:59,236 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-10 16:32:13,097 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-10 16:32:13,106 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-10 16:32:14,708 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-10 16:32:20,643 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-10 16:32:25,427 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 87.17%
+2025-06-10 16:34:27,182 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, extracted_audio_flask.wav
+2025-06-10 16:34:28,786 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 90.91%
+2025-06-10 16:34:53,429 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, extracted_audio_flask.wav
+2025-06-10 16:34:54,861 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 90.91%
+2025-06-10 16:35:36,953 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-10 16:36:01,876 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-10 16:36:01,883 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-10 16:36:03,274 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-10 16:36:10,647 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-10 16:36:15,600 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 87.17%
+2025-06-10 16:36:52,187 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, shreya.wav
+2025-06-10 16:36:53,845 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 87.50%
+2025-06-10 16:38:01,934 - steganography - [32mINFO[0m - Processing files: image2.jpg, Anshika.wav
+2025-06-10 16:38:01,959 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 51
+2025-06-10 16:38:01,961 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 51
+2025-06-10 16:38:03,852 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-10 16:38:58,054 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-10 16:38:58,329 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=51, frame_rate=8000
+2025-06-10 16:38:58,392 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-10 16:38:58,394 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 51
+2025-06-10 16:38:58,413 - steganography - [32mINFO[0m - Audio match result: 84.15
+2025-06-10 16:38:58,413 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-11 14:23:14,901 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-11 14:23:14,914 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-11 14:23:18,435 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-11 14:24:11,137 - steganography - [32mINFO[0m - Processing files: image2.jpg, Anshika.wav
+2025-06-11 14:24:20,967 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 96
+2025-06-11 14:24:20,968 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 96
+2025-06-11 14:24:24,785 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-11 14:24:53,787 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-11 14:24:54,383 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=96, frame_rate=8000
+2025-06-11 14:24:54,514 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-11 14:24:54,518 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 96
+2025-06-11 14:24:54,550 - steganography - [32mINFO[0m - Audio match result: 84.15
+2025-06-11 14:24:54,552 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-11 14:38:59,754 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-11 14:39:04,518 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 88.16%
+2025-06-11 14:40:55,751 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-11 14:41:03,181 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 83.82%
+2025-06-12 02:06:17,280 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:06:17,314 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:06:18,764 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:06:25,271 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, extracted_audio_flask.wav
+2025-06-12 02:06:27,820 - steganography - [31mERROR[0m - Error processing audio comparison: name 'spectral_centroid1' is not defined
+2025-06-12 02:07:54,356 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:07:54,377 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:07:55,597 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:08:04,155 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, extracted_audio_flask.wav
+2025-06-12 02:08:09,937 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 51.25%
+2025-06-12 02:08:09,938 - steganography - [31mERROR[0m - Error processing audio comparison: Object of type bool_ is not JSON serializable
+2025-06-12 02:09:29,474 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:09:29,481 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:09:30,834 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:09:34,855 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, extracted_audio_flask.wav
+2025-06-12 02:09:40,062 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 51.25%
+2025-06-12 02:13:09,202 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:13:51,205 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:13:51,214 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:13:53,077 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:13:58,205 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:14:06,136 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 52.73%
+2025-06-12 02:16:54,235 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, 5.wav
+2025-06-12 02:17:42,936 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:17:42,946 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:17:44,635 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:17:53,935 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, extracted_audio_flask.wav
+2025-06-12 02:18:00,268 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 51.25%
+2025-06-12 02:21:18,727 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:21:18,734 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:21:19,979 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:21:46,777 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:21:51,516 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 52.39%
+2025-06-12 02:22:13,186 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, shreya.wav
+2025-06-12 02:22:14,926 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 92.60%
+2025-06-12 02:25:43,045 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, shreya.wav
+2025-06-12 02:25:44,475 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 92.60%
+2025-06-12 02:26:15,745 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, shreya.wav
+2025-06-12 02:26:47,050 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:26:47,057 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:26:48,667 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:26:51,130 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, shreya.wav
+2025-06-12 02:26:55,383 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 92.60%
+2025-06-12 02:29:09,774 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, shreya.wav
+2025-06-12 02:29:11,655 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 92.60%
+2025-06-12 02:29:37,212 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, recording.wav
+2025-06-12 02:29:42,225 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 70.68%
+2025-06-12 02:30:28,854 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, recording.wav
+2025-06-12 02:31:08,502 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:31:08,510 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:31:10,394 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:31:18,062 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, recording.wav
+2025-06-12 02:31:23,566 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 63.89%
+2025-06-12 02:34:30,021 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, shreya.wav
+2025-06-12 02:34:32,055 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 92.60%
+2025-06-12 02:37:01,624 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:37:03,431 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 52.39%
+2025-06-12 02:37:18,892 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-12 02:37:45,153 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:37:45,188 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:37:46,733 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:37:51,463 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-12 02:37:55,176 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 51.25%
+2025-06-12 02:38:17,067 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, 4.wav
+2025-06-12 02:38:18,931 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 33.99%
+2025-06-12 02:38:31,338 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, shreya.wav
+2025-06-12 02:38:33,055 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 92.60%
+2025-06-12 02:38:54,592 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, extracted_audio_flask.wav
+2025-06-12 02:39:12,184 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:39:12,219 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:39:13,566 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:39:21,010 - steganography - [32mINFO[0m - Processing audio comparison: Anshika.wav, extracted_audio_flask.wav
+2025-06-12 02:39:25,026 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 51.25%
+2025-06-12 02:42:52,442 - steganography - [32mINFO[0m - Processing files: image2.jpg, shreya.wav
+2025-06-12 02:42:52,498 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 100
+2025-06-12 02:42:52,500 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 100
+2025-06-12 02:42:54,559 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-12 02:43:06,591 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-12 02:43:06,938 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=100, frame_rate=8000
+2025-06-12 02:43:07,012 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-12 02:43:07,014 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 100
+2025-06-12 02:43:07,042 - steganography - [32mINFO[0m - Audio match result: 82.2
+2025-06-12 02:43:07,043 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-12 02:43:20,449 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:43:22,343 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 53.32%
+2025-06-12 02:43:39,839 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:45:17,025 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:45:17,043 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:45:18,365 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:45:21,297 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:45:25,535 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 53.32%
+2025-06-12 02:45:43,929 - steganography - [32mINFO[0m - Processing audio comparison: shreya.wav, shreya.wav
+2025-06-12 02:45:45,937 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 100.00%
+2025-06-12 02:46:01,330 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:46:03,289 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 53.32%
+2025-06-12 02:52:36,288 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:52:38,227 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 53.32%
+2025-06-12 02:52:58,127 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:52:58,136 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:52:59,373 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:53:05,786 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:53:09,647 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 53.32%
+2025-06-12 02:54:49,554 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:54:49,580 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:54:50,922 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:54:55,538 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:54:59,805 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 53.32%
+2025-06-12 02:57:08,798 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 02:57:08,805 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 02:57:10,161 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 02:57:13,173 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 02:57:17,258 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 80.12%
+2025-06-12 02:57:29,708 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, 3.wav
+2025-06-12 02:57:31,639 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 64.09%
+2025-06-12 02:59:17,485 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, 3.wav
+2025-06-12 02:59:21,641 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 64.09%
+2025-06-12 02:59:55,623 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, 3.wav
+2025-06-12 02:59:58,704 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 64.09%
+2025-06-12 03:00:07,674 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 03:00:07,715 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 03:00:10,789 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 03:00:11,035 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, 3.wav
+2025-06-12 03:00:20,988 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 87.20%
+2025-06-12 03:01:04,749 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 03:01:04,788 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 03:01:07,795 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 03:01:07,962 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, 3.wav
+2025-06-12 03:01:16,691 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 49.49%
+2025-06-12 03:01:26,302 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-12 03:01:30,173 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 58.76%
+2025-06-12 03:01:58,675 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 03:02:02,721 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 59.54%
+2025-06-12 04:19:33,882 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 04:19:33,948 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 04:19:37,821 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 04:20:23,068 - steganography - [32mINFO[0m - Processing files: image2.jpg, Anshika.wav
+2025-06-12 04:20:33,314 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 101
+2025-06-12 04:20:33,317 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 101
+2025-06-12 04:20:36,260 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-12 04:21:38,120 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-12 04:21:41,837 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=101, frame_rate=8000
+2025-06-12 04:21:41,977 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-12 04:21:41,981 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 101
+2025-06-12 04:21:42,040 - steganography - [32mINFO[0m - Audio match result: 84.1
+2025-06-12 04:21:42,043 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-12 04:22:46,406 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, shreya.wav
+2025-06-12 04:22:50,762 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 58.32%
+2025-06-12 04:23:00,926 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-12 04:23:04,524 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 57.53%
+2025-06-12 04:31:25,291 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-12 04:31:29,698 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 57.53%
+2025-06-12 04:32:28,134 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 04:32:28,169 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 04:32:30,793 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 04:32:34,058 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-12 04:32:44,248 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 57.53%
+2025-06-12 04:33:33,368 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 04:33:33,405 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 04:33:36,117 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 04:33:40,045 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-12 04:33:48,596 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 109.72%
+2025-06-12 04:34:39,457 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 04:34:39,470 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 04:34:43,658 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 04:34:43,818 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-12 04:34:52,545 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 57.53%
+2025-06-12 04:35:41,074 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 04:35:41,116 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 04:35:43,946 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 04:35:50,081 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-12 04:36:00,281 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 97.49%
+2025-06-12 04:36:11,268 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, 3.wav
+2025-06-12 04:36:14,596 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 77.39%
+2025-06-12 04:36:33,353 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, recording.wav
+2025-06-12 04:36:42,393 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 74.67%
+2025-06-12 15:13:35,682 - steganography - [32mINFO[0m - Configuration validation successful
+2025-06-12 15:13:35,698 - steganography - [32mINFO[0m - Connected to MongoDB database: steganography_db
+2025-06-12 15:13:39,441 - steganography - [32mINFO[0m - Starting Flask application
+2025-06-12 15:15:26,178 - steganography - [32mINFO[0m - Processing audio comparison: extracted_audio_flask.wav, Anshika.wav
+2025-06-12 15:15:42,710 - steganography - [32mINFO[0m - Audio comparison completed successfully. Similarity: 97.49%
+2025-06-12 15:35:36,732 - steganography - [32mINFO[0m - Processing files: image3.jpg, Anshika.wav
+2025-06-12 15:35:36,965 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 102
+2025-06-12 15:35:36,968 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 102
+2025-06-12 15:35:39,796 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-12 15:35:50,455 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-12 15:35:52,514 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=102, frame_rate=8000
+2025-06-12 15:35:52,606 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-12 15:35:52,609 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 102
+2025-06-12 15:35:52,634 - steganography - [32mINFO[0m - Audio match result: 84.1
+2025-06-12 15:35:52,635 - steganography - [32mINFO[0m - Extraction completed successfully
+2025-06-12 15:58:18,120 - steganography - [32mINFO[0m - Processing files: image4.jpg, shreya.wav
+2025-06-12 15:58:18,253 - steganography - [32mINFO[0m - Fingerprint stored successfully with unique_id: 103
+2025-06-12 15:58:18,256 - steganography - [32mINFO[0m - Fingerprint stored with unique_id: 103
+2025-06-12 15:58:23,026 - steganography - [32mINFO[0m - Embedding completed successfully
+2025-06-12 15:58:33,873 - steganography - [32mINFO[0m - Processing extraction for: stego_image_rev_flask.png
+2025-06-12 15:58:37,602 - steganography - [32mINFO[0m - Data extracted successfully: unique_id=103, frame_rate=8000
+2025-06-12 15:58:37,760 - steganography - [32mINFO[0m - Audio data generated successfully
+2025-06-12 15:58:37,766 - steganography - [32mINFO[0m - Fingerprint retrieved successfully for unique_id: 103
+2025-06-12 15:58:37,802 - steganography - [32mINFO[0m - Audio match result: 82.35
+2025-06-12 15:58:37,804 - steganography - [32mINFO[0m - Extraction completed successfully
